@@ -8,7 +8,6 @@
 * `git diff`  #mostra exatamente as diferenças entre o seu código atual (modificações não commitadas) e o último commit feito.
 * `git restore nome-arquivo` #descarta alterações feitas no arquivo
 * `git branch` #mostra em qual branch está
-* `git branch -b nome-da-branch` #cria uma branch
 * `git checkout nome-da-branch-existente` #saindo da branch atual e indo para outra
 * `git checkout -b nome-da branch` #Pega a branch atual e cria uma nova a partir dessa e ja muda automaticamente para nova
 * `git merge nome-da-branch` #Isso e pra adicionar a branch em uma outra
