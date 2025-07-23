@@ -17,4 +17,5 @@
 * `git pull origin nome-da-branch` #Serve para pegar tudo que está no repositorio e por na branch
 * `git branch -d nome-da-branch` #remove a branch
 * `git fetch` # serve pra baixar todas as atualizações do repositório remoto
+* `git clone <url-do-repositorio>` #Serve para clonar o repositorio
 
